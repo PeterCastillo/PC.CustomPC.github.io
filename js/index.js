@@ -37,20 +37,20 @@ const sett = (Obejct) => {
 
 const pintar = (piezaTipo) => {
     container.innerHTML = '';
-    Object.values(componentes).forEach(componente => {
-        if(componente.tipo = piezaTipo){
-            let div = document.createElement('div');
-            div.classList.add('custom__list__type__list--element')
-            const componenteContent = `
-                <div class="custom__list__type__list--element--img"><img src="${componente.img}" alt=""></div>
-                <span class="custom__list__type__list--element--name">${componente.nombre}</span>
-                <button class="custom__list__type__list--element--add" data-id= "${componente.id}">AGREGAR</button>
-                <div class="custom__selected__selected-img-hover"><div><img src="${componente.img}" alt=""></div></div>
-            `
-            div.innerHTML = componenteContent;
-            fragmento.appendChild(div);
-            container.appendChild(fragmento);
-        }
-    });
+    // Object.values(componentes).forEach(componente => {
+    //     if(componente.tipo = piezaTipo){
+    //         let div = document.createElement('div');
+    //         div.classList.add('custom__list__type__list--element')
+    //         const componenteContent = `
+    //             <div class="custom__list__type__list--element--img"><img src="${componente.img}" alt=""></div>
+    //             <span class="custom__list__type__list--element--name">${componente.nombre}</span>
+    //             <button class="custom__list__type__list--element--add" data-id= "${componente.id}">AGREGAR</button>
+    //             <div class="custom__selected__selected-img-hover"><div><img src="${componente.img}" alt=""></div></div>
+    //         `
+    //         div.innerHTML = componenteContent;
+    //         fragmento.appendChild(div);
+    //         container.appendChild(fragmento);
+    //     }
+    // });
 };
 
