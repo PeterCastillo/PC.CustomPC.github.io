@@ -1,28 +1,75 @@
 [
     {
+    "id": 10031,
     "tipo" : "tarjeta",
     "nombre" : "GeForce 3060",
     "img" : "https://thumb.pccomponentes.com/w-530-530/articles/42/423334/1544-gigabyte-aorus-geforce-rtx-3060-elite-rev-20-12gb-gddr6.jpg"
     },
     {
+    "id": 10016,
     "tipo" : "tarjeta",
     "nombre" : "GeForce 3060Ti",
     "img" : "https://thumb.pccomponentes.com/w-530-530/articles/47/475906/1951-zotac-gaming-geforce-rtx-3060-ti-twin-edge-lhr-8gb-gddr6.jpg"
     },
     {
+    "id": 10017,
     "tipo" : "tarjeta",
     "nombre" : "GTX 1050Ti",
     "img" : "https://thumb.pccomponentes.com/w-530-530/articles/14/141056/1223-msi-geforce-gtx-1050ti-4gt-low-profile-4gb-gddr5-comprar.jpg"
     },
     {
+    "id": 10004,
     "tipo" : "tarjeta",
     "nombre" : "Radeon RX550",
     "img" : "https://thumb.pccomponentes.com/w-530-530/articles/83/838754/1661-powercolor-red-dragon-radeon-rx-550-4gb-gddr5-low-profile.jpg"
     },
     {
+    "id": 10078,
     "tipo" : "tarjeta",
     "nombre" : "GTX 1650",
     "img" : "https://thumb.pccomponentes.com/w-530-530/articles/36/360962/1312-gigabyte-geforce-gtx-1650-oc-low-profile-4gb-gddr5.jpg"
+    },
+    {
+    "id": 20044 ,
+    "tipo" : "ram",
+    "nombre" : "FURY DDR4",
+    "img" : "https://thumb.pccomponentes.com/w-530-530/articles/43/432611/1302-kingston-fury-beast-ddr4-2666-mhz-8gb-cl16.jpg"
+    },
+    {
+    "id": 20078,
+    "tipo" : "ram",
+    "nombre" : "Performance DDR4",
+    "img" : "https://thumb.pccomponentes.com/w-530-530/articles/34/342999/1940-pny-performance-ddr4-2666mhz-pc4-21300-8gb-cl19.jpg"
+    },
+    {
+    "id": 20001,
+    "tipo" : "ram",
+    "nombre" : "CT16G4DFRA266 DDR4",
+    "img" : "https://thumb.pccomponentes.com/w-530-530/articles/32/323858/132-crucial-ct16g4dfra266-ddr4-2666mhz-pc4-21300-16gb-cl19.jpg"
+    },
+    {
+    "id": 20087,
+    "tipo" : "ram",
+    "nombre" : "Value Select DDR4",
+    "img" : "https://thumb.pccomponentes.com/w-530-530/articles/7/78861/corsair-value-select-ddr4-2133-pc4-17000-8gb-cl15.jpg"
+    },
+    {
+    "id": 20094,
+    "tipo" : "ram",
+    "nombre" : "XPG Hunter DDR4",
+    "img" : "https://thumb.pccomponentes.com/w-530-530/articles/38/387469/1307-adata-xpg-hunter-ddr4-3200-pc4-25600-8gb-cl16.jpg"
+    },
+    {
+    "id": 20014,
+    "tipo" : "ram",
+    "nombre" : "HP V2 DDR4",
+    "img" : "https://thumb.pccomponentes.com/w-530-530/articles/75/754950/1956-hp-v2-ddr4-3200mhz-8gb-cl16-especificaciones.jpg"
+    },
+    {
+    "id": 20083,
+    "tipo" : "ram",
+    "nombre" : "Spectrix D60 DDR4 ",
+    "img" : "https://thumb.pccomponentes.com/w-530-530/articles/38/387470/161-adata-xpg-spectrix-d60-ddr4-3200mhz-8gb-cl16.jpg"
     }
 ]
     
