@@ -2,51 +2,27 @@
     {
     "tipo" : "tarjeta",
     "nombre" : "GeForce 3060",
-    "img" : "https://thumb.pccomponentes.com/w-530-530/articles/42/423334/1544-gigabyte-aorus-geforce-rtx-3060-elite-rev-20-12gb-gddr6.jpg";
+    "img" : "https://thumb.pccomponentes.com/w-530-530/articles/42/423334/1544-gigabyte-aorus-geforce-rtx-3060-elite-rev-20-12gb-gddr6.jpg"
     },
     {
     "tipo" : "tarjeta",
     "nombre" : "GeForce 3060Ti",
-    "img" : "https://thumb.pccomponentes.com/w-530-530/articles/47/475906/1951-zotac-gaming-geforce-rtx-3060-ti-twin-edge-lhr-8gb-gddr6.jpg";
+    "img" : "https://thumb.pccomponentes.com/w-530-530/articles/47/475906/1951-zotac-gaming-geforce-rtx-3060-ti-twin-edge-lhr-8gb-gddr6.jpg"
     },
     {
     "tipo" : "tarjeta",
     "nombre" : "GTX 1050Ti",
-    "img" : "https://thumb.pccomponentes.com/w-530-530/articles/14/141056/1223-msi-geforce-gtx-1050ti-4gt-low-profile-4gb-gddr5-comprar.jpg";
+    "img" : "https://thumb.pccomponentes.com/w-530-530/articles/14/141056/1223-msi-geforce-gtx-1050ti-4gt-low-profile-4gb-gddr5-comprar.jpg"
     },
     {
     "tipo" : "tarjeta",
     "nombre" : "Radeon RX550",
-    "img" : "https://thumb.pccomponentes.com/w-530-530/articles/83/838754/1661-powercolor-red-dragon-radeon-rx-550-4gb-gddr5-low-profile.jpg";
+    "img" : "https://thumb.pccomponentes.com/w-530-530/articles/83/838754/1661-powercolor-red-dragon-radeon-rx-550-4gb-gddr5-low-profile.jpg"
     },
     {
     "tipo" : "tarjeta",
     "nombre" : "GTX 1650",
-    "img" : "https://thumb.pccomponentes.com/w-530-530/articles/36/360962/1312-gigabyte-geforce-gtx-1650-oc-low-profile-4gb-gddr5.jpg";
-    },
-    {
-    "tipo" : "",
-    "nombre" : "",
-    "img" : "";
-    },
-    {
-    "tipo" : "",
-    "nombre" : "",
-    "img" : "";
-    },
-    {
-    "tipo" : "",
-    "nombre" : "",
-    "img" : "";
-    },
-    {
-    "tipo" : "",
-    "nombre" : "",
-    "img" : "";
-    },
-    {
-    "tipo" : "",
-    "nombre" : "",
-    "img" : "";
+    "img" : "https://thumb.pccomponentes.com/w-530-530/articles/36/360962/1312-gigabyte-geforce-gtx-1650-oc-low-profile-4gb-gddr5.jpg"
     }
 ]
+    
