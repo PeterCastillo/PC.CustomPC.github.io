@@ -117,7 +117,9 @@
     background-color: hsl(223, 64%, 98%);
     position: relative;
 }
-
+.custom__list__type__list--element--selected {
+    border: double 3px;
+}
 .custom__selected__selected-img-hover {
     position: absolute;
     top: 0;

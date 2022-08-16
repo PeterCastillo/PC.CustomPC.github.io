@@ -1,44 +1,44 @@
 [
     {
     "id": 10031,
-    "tipo" : "tarjeta",
+    "tipo" : "Tarjeta Grafica",
     "nombre" : "GeForce 3060",
     "img" : "https://thumb.pccomponentes.com/w-530-530/articles/42/423334/1544-gigabyte-aorus-geforce-rtx-3060-elite-rev-20-12gb-gddr6.jpg"
     },
     {
     "id": 10016,
-    "tipo" : "tarjeta",
+    "tipo" : "Tarjeta Grafica",
     "nombre" : "GeForce 3060Ti",
     "img" : "https://thumb.pccomponentes.com/w-530-530/articles/47/475906/1951-zotac-gaming-geforce-rtx-3060-ti-twin-edge-lhr-8gb-gddr6.jpg"
     },
     {
     "id": 10017,
-    "tipo" : "tarjeta",
+    "tipo" : "Tarjeta Grafica",
     "nombre" : "GTX 1050Ti",
     "img" : "https://thumb.pccomponentes.com/w-530-530/articles/14/141056/1223-msi-geforce-gtx-1050ti-4gt-low-profile-4gb-gddr5-comprar.jpg"
     },
     {
     "id": 10004,
-    "tipo" : "tarjeta",
+    "tipo" : "Tarjeta Grafica",
     "nombre" : "Radeon RX550",
     "img" : "https://thumb.pccomponentes.com/w-530-530/articles/83/838754/1661-powercolor-red-dragon-radeon-rx-550-4gb-gddr5-low-profile.jpg"
     },
     {
     "id": 10078,
-    "tipo" : "tarjeta",
+    "tipo" : "Tarjeta Grafica",
     "nombre" : "GTX 1650",
     "img" : "https://thumb.pccomponentes.com/w-530-530/articles/36/360962/1312-gigabyte-geforce-gtx-1650-oc-low-profile-4gb-gddr5.jpg"
     },
     {
     "id": 20044 ,
-    "tipo" : "ram",
+    "tipo" : "Ram",
     "nombre" : "FURY DDR4",
     "img" : "https://thumb.pccomponentes.com/w-530-530/articles/43/432611/1302-kingston-fury-beast-ddr4-2666-mhz-8gb-cl16.jpg"
     },
     {
     "id": 20078,
-    "tipo" : "ram",
-    "nombre" : "Performance DDR4",
+    "tipo" : "Ram",
+    "nombre" : "PerformanceDDR4",
     "img" : "https://thumb.pccomponentes.com/w-530-530/articles/34/342999/1940-pny-performance-ddr4-2666mhz-pc4-21300-8gb-cl19.jpg"
     },
     {
@@ -55,21 +55,135 @@
     },
     {
     "id": 20094,
-    "tipo" : "ram",
+    "tipo" : "Ram",
     "nombre" : "XPG Hunter DDR4",
     "img" : "https://thumb.pccomponentes.com/w-530-530/articles/38/387469/1307-adata-xpg-hunter-ddr4-3200-pc4-25600-8gb-cl16.jpg"
     },
     {
     "id": 20014,
-    "tipo" : "ram",
+    "tipo" : "Ram",
     "nombre" : "HP V2 DDR4",
     "img" : "https://thumb.pccomponentes.com/w-530-530/articles/75/754950/1956-hp-v2-ddr4-3200mhz-8gb-cl16-especificaciones.jpg"
     },
     {
     "id": 20083,
-    "tipo" : "ram",
-    "nombre" : "Spectrix D60 DDR4 ",
+    "tipo" : "Ram",
+    "nombre" : "SpectrixD60 DDR4",
     "img" : "https://thumb.pccomponentes.com/w-530-530/articles/38/387470/161-adata-xpg-spectrix-d60-ddr4-3200mhz-8gb-cl16.jpg"
+    },
+    {
+    "id": 60078,
+    "tipo" : "Case",
+    "nombre" : "DATAONE STAR",
+    "img" : "https://thumb.pccomponentes.com/w-530-530/articles/1005/10057484/122-acer-nitro-n50-intel-core-i7-12700f-16gb-1tb-ssd-rtx-3060.jpg"
+    },
+    {
+    "id": 60011,
+    "tipo" : "Case",
+    "nombre" : "PcCom Bronze",
+    "img" : "https://thumb.pccomponentes.com/w-530-530/articles/1039/10394918/1126-pccom-bronze-intel-core-i5-10400f-16gb-500gb-ssd-gtx1650-comprar.jpg"
+    },
+    {
+    "id": 60028,
+    "tipo" : "Case",
+    "nombre" : "Medion Erazer",
+    "img" : "https://thumb.pccomponentes.com/w-300-300/articles/1043/10438041/1659-nitropc-extremo-nitro-intel-i9-11900f-32gb-1tb-1tb-ssd-rtx3070-windows-11-home.jpg"
+    },
+    {
+    "id": 60018,
+    "tipo" : "Case",
+    "nombre" : "HP OMEN 40L",
+    "img" : "https://thumb.pccomponentes.com/w-530-530/articles/1036/10364729/1370-hp-omen-40l-gt21-0049ns-intel-core-i7-12700k-32gb-1tb-ssd-1tb-rtx-3070-bf7fc7f6-45b2-4c4a-b9dd-8e94adb40401.jpg"
+    },
+    {
+    "id": 60048,
+    "tipo" : "Case",
+    "nombre" : "MSI Creator",
+    "img" : "https://thumb.pccomponentes.com/w-530-530/articles/1043/10437486/1590-msi-creator-p100a-11tc-1202es-intel-core-i7-11700-32gb-1tb-1tb-ssd-rtx-3060.jpg"
+    },
+    {
+    "id": 60088,
+    "tipo" : "Case",
+    "nombre" : "MSI MEG TridentX",
+    "img" : "https://thumb.pccomponentes.com/w-530-530/articles/1046/10460903/1376-msi-meg-trident-x-10sc-2433es-intel-core-i7-10700k-16gb-1tb-ssd-rtx-2060.jpg"
+    },
+    {
+    "id": 60098,
+    "tipo" : "Case",
+    "nombre" : "MSI MPG Trident",
+    "img" : "https://thumb.pccomponentes.com/w-300-300/articles/79/793461/1153-msi-mpg-trident-a-12tg-055xes-intel-core-i5-12400f-16gb-1tb-ssd-rtx3060ti.jpg"
+    },
+    {
+    "id": 80094,
+    "tipo" : "Procesador",
+    "nombre" : "Intel X Avengers",
+    "img" : "https://thumb.pccomponentes.com/w-300-300/articles/31/314322/1424-intel-core-i5-10600ka-410-ghz.jpg"
+    },
+    {
+    "id": 80064,
+    "tipo" : "Procesador",
+    "nombre" : "Ryzen Amd 7G",
+    "img" : "https://thumb.pccomponentes.com/w-300-300/articles/58/584476/179-amd-ryzen-7-5700g-46ghz-bulk.jpg"
+    },
+    {
+    "id": 80071,
+    "tipo" : "Procesador",
+    "nombre" : "Intel Core i7P",
+    "img" : "https://thumb.pccomponentes.com/w-300-300/articles/17/173598/1539027947000-1435918.jpg"
+    },
+    {
+    "id": 80010,
+    "tipo" : "Procesador",
+    "nombre" : "Ryzen Threadripper",
+    "img" : "https://thumb.pccomponentes.com/w-300-300/articles/35/358517/1877-amd-ryzen-threadripper-pro-3955wx.jpg"
+    },
+    {
+    "id": 80020,
+    "tipo" : "Procesador",
+    "nombre" : "Intel Celeron",
+    "img" : "https://thumb.pccomponentes.com/w-300-300/articles/33/332627/1246-intel-celeron-g5905-350ghz.jpg"
+    },
+    {
+    "id": 80030,
+    "tipo" : "Procesador",
+    "nombre" : "Intel Core i3",
+    "img" : "https://thumb.pccomponentes.com/w-300-300/articles/36/362385/1171-intel-core-i3-10105-37-ghz.jpg"
+    },
+    {
+    "id": 80040,
+    "tipo" : "Procesador",
+    "nombre" : "Intel Pentium",
+    "img" : "https://thumb.pccomponentes.com/w-300-300/articles/36/362395/1340-intel-pentium-gold-g6405-41-ghz.jpg"
+    },
+    {
+    "id": 80050,
+    "tipo" : "Procesador",
+    "nombre" : "Intel Core i7",
+    "img" : "https://thumb.pccomponentes.com/w-300-300/articles/36/362354/123-intel-core-i7-11700k-35-ghz.jpg"
+    },
+    {
+    "id": 80060,
+    "tipo" : "Procesador",
+    "nombre" : "AMD Ryzen 9",
+    "img" : "https://thumb.pccomponentes.com/w-300-300/articles/32/328702/1997-amd-ryzen-9-5900x-37-ghz.jpg"
+    },
+    {
+    "id": 80070,
+    "tipo" : "Procesador",
+    "nombre" : "AMD Ryzen 7",
+    "img" : "https://thumb.pccomponentes.com/w-300-300/articles/32/328473/168-amd-ryzen-7-5800x-38ghz.jpg"
+    },
+    {
+    "id": 80080,
+    "tipo" : "Procesador",
+    "nombre" : "Intel Core i5",
+    "img" : "https://thumb.pccomponentes.com/w-300-300/articles/36/362381/1851-intel-core-i5-11400f-26-ghz.jpg"
+    },
+    {
+    "id": 80090,
+    "tipo" : "Procesador",
+    "nombre" : "AMD Ryzen 5",
+    "img" : "https://thumb.pccomponentes.com/w-300-300/articles/32/328475/1101-amd-ryzen-5-5600x-37ghz.jpg"
     }
 ]
     
