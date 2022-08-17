@@ -184,6 +184,126 @@
     "tipo" : "Procesador",
     "nombre" : "AMD Ryzen 5",
     "img" : "https://thumb.pccomponentes.com/w-300-300/articles/32/328475/1101-amd-ryzen-5-5600x-37ghz.jpg"
+    },
+    {
+    "id": 30041,
+    "tipo" : "Almacenamiento",
+    "nombre" : "TeamGroup CA",
+    "img" : "https://thumb.pccomponentes.com/w-140-140/articles/28/286730/team-group-cardea-zero-z340-1tb-pcie-m2-gaming-ssd.jpg"
+    },
+    {
+    "id": 30092,
+    "tipo" : "Almacenamiento",
+    "nombre" : "WD Green SN",
+    "img" : "https://thumb.pccomponentes.com/w-140-140/articles/80/805179/1639-wd-green-sn350-ssd-1tb-m2-nvme.jpg"
+    },
+    {
+    "id": 30091,
+    "tipo" : "Almacenamiento",
+    "nombre" : "WD Black SN",
+    "img" : "https://thumb.pccomponentes.com/w-140-140/articles/32/328713/1259-wd-black-sn850-1tb-ssd-m2-2280-3d-nand-sin-disipador-termico.jpg"
+    },
+    {
+    "id": 30090,
+    "tipo" : "Almacenamiento",
+    "nombre" : "Crucial MX500",
+    "img" : "https://thumb.pccomponentes.com/w-140-140/articles/14/147002/1.jpg"
+    },
+    {
+    "id": 30080,
+    "tipo" : "Almacenamiento",
+    "nombre" : "Kingston NV1",
+    "img" : "https://thumb.pccomponentes.com/w-140-140/articles/39/390989/1510-kingston-nv1-disco-ssd-500gb-pcie-nvme.jpg"
+    },
+    {
+    "id": 3070,
+    "tipo" : "Almacenamiento",
+    "nombre" : "Blue SN570",
+    "img" : "https://thumb.pccomponentes.com/w-140-140/articles/74/748663/1833-wd-blue-sn570-ssd-500gb-m2-nvme.jpg"
+    },
+    {
+    "id": 30060,
+    "tipo" : "Almacenamiento",
+    "nombre" : "Msi Spatium",
+    "img" : "https://thumb.pccomponentes.com/w-140-140/articles/62/624922/1989-msi-spatium-m390-500gb-ssd-nvme-m2.jpg"
+    },
+    {
+    "id": 30050,
+    "tipo" : "Almacenamiento",
+    "nombre" : "Kioxia 480",
+    "img" : "https://thumb.pccomponentes.com/w-140-140/articles/28/288164/kioxia-exceria-480-ssd-sata.jpg"
+    },
+    {
+    "id": 30040,
+    "tipo" : "Almacenamiento",
+    "nombre" : "Kingston A400",
+    "img" : "https://thumb.pccomponentes.com/w-140-140/articles/12/128275/1282750.jpg"
+    },
+    {
+    "id": 30030,
+    "tipo" : "Almacenamiento",
+    "nombre" : "Samsung 980 PRO",
+    "img" : "https://thumb.pccomponentes.com/w-140-140/articles/79/792656/1626-samsung-980-pro-1tb-ssd-pcie-40-nvme-m2-con-disipador-de-calor.jpg"
+    },
+    {
+    "id": 30020,
+    "tipo" : "Almacenamiento",
+    "nombre" : "Kioxia Exceria",
+    "img" : "https://thumb.pccomponentes.com/w-140-140/articles/28/288178/kioxia-exceria-plus-500gb-ssd-nvme-m2-2280.jpg"
+    },
+    {
+    "id": 30010,
+    "tipo" : "Almacenamiento",
+    "nombre" : "Samsung 870QVO",
+    "img" : "https://thumb.pccomponentes.com/w-140-140/articles/32/322021/1157-samsung-870-qvo-ssd-1tb-sata3.jpg"
+    },
+    {
+    "id": 40090,
+    "tipo" : "Fuente",
+    "nombre" : "EVGA GQ Plus",
+    "img" : "https://thumb.pccomponentes.com/w-140-140/articles/10/102064/evga-750-gq-750w-80-plus-gold-modular.jpg"
+    },
+    {
+    "id": 40080,
+    "tipo" : "Fuente",
+    "nombre" : "Thermaltake GF2",
+    "img" : "https://thumb.pccomponentes.com/w-140-140/articles/39/394892/1891-thermaltake-toughpower-gf2-argb-750w-premium-edition-80-plus-gold-modular.jpg"
+    },
+    {
+    "id": 40070,
+    "tipo" : "Fuente",
+    "nombre" : "Seasonic B12",
+    "img" : "https://thumb.pccomponentes.com/w-140-140/articles/38/389875/1160-seasonic-b12-bc-series-850w-80-plus-bronze.jpg"
+    },
+    {
+    "id": 40050,
+    "tipo" : "Fuente",
+    "nombre" : "EVGA SuperN",
+    "img" : "https://thumb.pccomponentes.com/w-140-140/articles/83/837678/1638-evga-supernova-650-g6-650w-80-plus-gold-full-modular.jpg"
+    },
+    {
+    "id": 40060,
+    "tipo" : "Fuente",
+    "nombre" : "Tempest PSU X",
+    "img" : "https://thumb.pccomponentes.com/w-140-140/articles/40/409519/1809-tempest-gaming-psu-x-650w-80-plus-bronce-modular.jpg"
+    },
+    {
+    "id": 40070,
+    "tipo" : "Fuente",
+    "nombre" : "Nox Urano",
+    "img" : "https://thumb.pccomponentes.com/w-140-140/articles/14/140446/6.jpg"
+    },
+    {
+    "id": 40080,
+    "tipo" : "Fuente",
+    "nombre" : "Corsair CV",
+    "img" : "https://thumb.pccomponentes.com/w-140-140/articles/33/333579/1177-corsair-cv-series-cv650-650w-80-plus-bronze-v2.jpg"
+    },
+    {
+    "id": 40090,
+    "tipo" : "Fuente",
+    "nombre" : "Nforce Sagitta",
+    "img" : "https://thumb.pccomponentes.com/w-140-140/articles/18/184210/copia-de-img-9083.jpg"
     }
 ]
     
