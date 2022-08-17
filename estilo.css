@@ -4,7 +4,6 @@
     display: flex;
     font-family: 'Kumbh Sans', sans-serif;
 }
-
 .custom {
     width: 56rem;
     height: 35rem;
@@ -13,14 +12,12 @@
     background-color: hsl(220, 14%, 40%);
     color: hsl(223, 64%, 98%);
 }
-
 .custom__selected {
     width: 8rem;
     height: 100%;
     display: flex;
     flex-direction: column;
 }
-
 .custom__selected > span {
     width: 100%;
     padding: 0.5rem;
@@ -30,14 +27,12 @@
     flex-grow: 1;
     background-color: hsl(220, 14%, 50%);
 }
-
 .custom__selected__selected {
     width: 100%;
     height:5.45rem;
     position: relative;
     cursor: pointer;
 }
-
 .custom__selected__selected--type  {
     position: absolute;
     bottom: 0;
@@ -54,13 +49,11 @@
     width: 100%;
     height: 100%;
 }
-
 .custom__selected__selected-img  img {
     width: 100%;
     height: 100%;
     object-fit: cover;
 }
-
 .custom__selected__selected--hover {
     position: absolute;
     display: inline-block;
@@ -70,7 +63,6 @@
     top: 0;
     display: none;
 }
-
 .custom__selected__selected-img:hover ~ .custom__selected__selected--hover {
     display: inline;
     display: flex;
@@ -78,7 +70,6 @@
     align-items: center;
     background: linear-gradient(rgba(5, 7, 12, 0.6),rgba(5, 7, 12, 0.6));
 }
-
 .custom__list {
     width: 48rem;
     height: 100%;
@@ -95,7 +86,6 @@
     width: 100%;
     background-color: hsl(220, 14%, 50%);
 }
-
 .custom__list__type__list {
     display: flex;
     flex-wrap: wrap;
@@ -103,7 +93,6 @@
     gap: 2rem;
     justify-content: flex-end;
 }
-
 .custom__list__type__list--element {
     width: 7rem;
     height: 8.5rem;
@@ -128,41 +117,34 @@
     background: linear-gradient(rgba(5, 7, 12, 0.6),rgba(5, 7, 12, 0.6));
     display: none;
 }
-
 .custom__selected__selected-img-hover div {
     margin: auto;
     width: 6.2rem;
     height: 7.4rem;
 }
-
 .custom__selected__selected-img-hover div img {
     width: 100%;
     height: 100%;
     object-fit: cover;
 }
-
 .custom__list__type__list--element--img {
     width: 5rem;
     height: 4rem;
 }
-
 .custom__list__type__list--element--img:hover  ~ .custom__selected__selected-img-hover{
     transition: all 1s ease;
     display: block;
     display: flex;
 }
-
 .custom__list__type__list--element--img img {
     width: 100%;
     height: 100%;
     object-fit: cover;
     cursor: pointer;
 }
-
 .custom__list__type__list--element--name {
     font-size: 13px;
 }
-
 .custom__list__type__list--element--add {
     width: 90%;
     padding: 0.3rem 0rem;
@@ -173,7 +155,6 @@
     border: none;
     border:  double 2px hsl(220, 14%, 40%);
 }
-
 .custom__list__type__list--element--add:hover {
     color: hsl(223, 64%, 98%);
     background:hsl(220, 14%, 40%);

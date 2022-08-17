@@ -56,7 +56,7 @@
     {
     "id": 20094,
     "tipo" : "Ram",
-    "nombre" : "XPG Hunter DDR4",
+    "nombre" : "XPGHunter DDR4",
     "img" : "https://thumb.pccomponentes.com/w-530-530/articles/38/387469/1307-adata-xpg-hunter-ddr4-3200-pc4-25600-8gb-cl16.jpg"
     },
     {
@@ -68,7 +68,7 @@
     {
     "id": 20083,
     "tipo" : "Ram",
-    "nombre" : "SpectrixD60 DDR4",
+    "nombre" : "SpectrixD6 DDR4",
     "img" : "https://thumb.pccomponentes.com/w-530-530/articles/38/387470/161-adata-xpg-spectrix-d60-ddr4-3200mhz-8gb-cl16.jpg"
     },
     {
@@ -104,13 +104,13 @@
     {
     "id": 60088,
     "tipo" : "Case",
-    "nombre" : "MSI MEG TridentX",
+    "nombre" : "MSIMEG TridentX",
     "img" : "https://thumb.pccomponentes.com/w-530-530/articles/1046/10460903/1376-msi-meg-trident-x-10sc-2433es-intel-core-i7-10700k-16gb-1tb-ssd-rtx-2060.jpg"
     },
     {
     "id": 60098,
     "tipo" : "Case",
-    "nombre" : "MSI MPG Trident",
+    "nombre" : "MSIMPG Trident",
     "img" : "https://thumb.pccomponentes.com/w-300-300/articles/79/793461/1153-msi-mpg-trident-a-12tg-055xes-intel-core-i5-12400f-16gb-1tb-ssd-rtx3060ti.jpg"
     },
     {
@@ -134,7 +134,7 @@
     {
     "id": 80010,
     "tipo" : "Procesador",
-    "nombre" : "Ryzen Threadripper",
+    "nombre" : "Ryzen Thredriper",
     "img" : "https://thumb.pccomponentes.com/w-300-300/articles/35/358517/1877-amd-ryzen-threadripper-pro-3955wx.jpg"
     },
     {
